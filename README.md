@@ -37,3 +37,6 @@ Things yet to be implemented:-
 2. Victory indication
 3. Proper token attack
 
+Instructions to play the game:-
+
+1. 
