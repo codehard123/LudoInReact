@@ -39,4 +39,4 @@ Things yet to be implemented:-
 
 Instructions to play the game:-
 
-1. 
+1.  
