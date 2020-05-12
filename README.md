@@ -39,4 +39,7 @@ Things yet to be implemented:-
 
 Instructions to play the game:-
 
-1.  
+1.  First click on the square dice. The dice will indicate a number. By default red moves first.
+2. Click on the red token to move in accordance to the number indicated. If the dice indicates 1 or 6 the token can be taken out of the house.
+3. Unlock the dice by clicking on the tokens of the correct color.
+4. Turn moves in clockwise fashion starting from red.
